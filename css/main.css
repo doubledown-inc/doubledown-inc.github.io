@@ -1316,7 +1316,7 @@ article hr {
   font: normal 900 42pt/1.2em lato, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 16pt;
   padding: 12px 0;
-  padding-left: 55px;
+  padding-left: 53px;
 }
 
 .footer .getintouch .button.twitter {
@@ -1412,7 +1412,7 @@ article hr {
     display: block;
     margin: 10px auto;
     width: 300px;
-    text-align: left;
+    text-align: center;
   }
 }
 
