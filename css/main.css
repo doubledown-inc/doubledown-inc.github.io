@@ -519,13 +519,13 @@ input, textarea, select, button {
 
 .aboutus {
   padding: 130px 10px;
-  text-align: left;
+  text-align: center;
 }
 
 .aboutus h3 {
   color: #424242;
   display: block;
-  font: bold 400 14pt/1.2em freight-text-pro, Georgia, serif;
+  font: normal 400 14pt/1.2em freight-text-pro, Georgia, serif;
   font-size: 22pt;
   line-height: 30pt;
   margin: 0 auto 20px;
@@ -536,7 +536,7 @@ input, textarea, select, button {
   color: #424242;
   display: block;
   font: normal 400 14pt/1.2em freight-text-pro, Georgia, serif;
-  font-size: 17pt;
+  font-size: 20pt;
   line-height: 28pt;
   margin: 0 auto;
   max-width: 675px;
