@@ -204,6 +204,7 @@ input, textarea, select, button {
   background-size: cover;
   background-position: 50% 50%;
   background-color: #0b0e15;
+  background-color: #fff;
   position: relative;
 }
 
@@ -214,9 +215,11 @@ input, textarea, select, button {
 }
 
 .header {
+  /*
   background-image: url(../images/header-background.jpg);
   background-repeat: no-repeat;
   background-position: center 25%;
+  */
   color: #fff;
   height: 100%;
   text-align: center;
