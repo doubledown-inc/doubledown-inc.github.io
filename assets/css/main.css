@@ -1435,13 +1435,13 @@
         top: 0;
       }
 
-  ul.about li {
+  ul.info li {
     position: relative;
     border-top: solid 1px #ddd;
     padding: 1.3em 0 1.3em 6.75em;
   }
 
-  ul.about .title {
+  ul.info .title {
     display: block;
     position: absolute;
     left: 0;
@@ -1457,7 +1457,7 @@
     padding: 0.5em 0.75em 0 1em;
   }
 
-    ul.about .title:after {
+    ul.info .title:after {
       content: '';
       position: absolute;
       bottom: 0;
@@ -1467,28 +1467,28 @@
       border-bottom: solid 1.05em transparent;
     }
 
-    ul.about .title strong {
+    ul.info .title strong {
       display: block;
       font-size: 1.75em;
       padding-top: 0.15em;
     }
 
-  ul.about h3 {
+  ul.info h3 {
     font-size: 1em;
   }
 
-  ul.about p {
+  ul.info p {
     margin: 0 0 0 2em;
     font-size: 1.1em;
     line-height: 1.75em;
   }
 
-  ul.about li:first-child {
+  ul.info li:first-child {
     border-top: 0;
     padding-top: 0;
   }
 
-    ul.about li:first-child .title {
+    ul.info li:first-child .title {
       top: 0;
     }
 
@@ -1877,7 +1877,7 @@
         color: inherit;
       }
 
-    #footer-wrapper ul.contact li, #footer-wrapper ul.about li, #footer-wrapper ul.divided li {
+    #footer-wrapper ul.contact li, #footer-wrapper ul.info li, #footer-wrapper ul.divided li {
       border-top-color: #353434;
       border-top-color: rgba(255, 255, 255, 0.05);
     }
