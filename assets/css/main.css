@@ -1823,7 +1823,7 @@
   #header-wrapper {
     position: relative;
     background: #ffffff;
-    border-bottom: solid 1px #ccc;
+    /* border-bottom: solid 1px #ccc; */
   }
 
   #main-wrapper {
